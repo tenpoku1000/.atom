@@ -1,0 +1,23 @@
+"*":
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "atom-light-ui"
+      "solarized-dark-syntax"
+    ]
+  editor:
+    autoIndent: false
+    autoIndentOnPaste: false
+    showInvisibles: true
+    softTabs: false
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+    tabLength: 4
+    tabType: "hard"
+  "exception-reporting":
+    userId: "04704ad9-a679-d083-f963-16023a1f0642"
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ensureSingleTrailingNewline: false
+    removeTrailingWhitespace: false
