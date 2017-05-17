@@ -1,3 +1,7 @@
+
+'atom-text-editor':
+  'ctrl-shift-O': 'link:open'
+
 # Your keymap
 #
 # Atom keymaps work similarly to style sheets. Just as style sheets use
