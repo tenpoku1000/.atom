@@ -3,7 +3,7 @@
     telemetryConsent: "limited"
     themes: [
       "atom-light-ui"
-      "solarized-dark-syntax"
+      "atom-light-syntax"
     ]
   editor:
     autoIndent: false
@@ -16,6 +16,8 @@
     tabType: "hard"
   "exception-reporting":
     userId: "04704ad9-a679-d083-f963-16023a1f0642"
+  "linter-ui-default":
+    panelHeight: 81
   welcome:
     showOnStartup: false
   whitespace:
