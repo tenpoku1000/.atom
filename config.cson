@@ -15,13 +15,13 @@
     tabLength: 4
     tabType: "hard"
   "exception-reporting":
-    userId: "9661ad4f-149e-4eab-b058-89517e650e18"
+    userId: "162b3280-8298-44dd-b364-ac5f3adacbb6"
   "linter-ui-default":
     panelHeight: 81
   "vim-mode":
     useClipboardAsDefaultRegister: true
-  "vim-mode-plus-ex-mode":
-    notifiedUseExMode: true
+  "vim-mode-plus":
+    notifiedCoffeeScriptNoLongerSupportedToExtendVMP: true
   welcome:
     showOnStartup: false
   whitespace:
