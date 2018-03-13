@@ -1,11 +1,11 @@
 "*":
   core:
     telemetryConsent: "limited"
-    uriHandlerRegistration: "always"
     themes: [
-      "atom-light-ui"
-      "atom-light-syntax"
+      "atom-dark-ui"
+      "atom-dark-syntax"
     ]
+    uriHandlerRegistration: "always"
   editor:
     autoIndent: false
     autoIndentOnPaste: false
@@ -21,8 +21,7 @@
     panelHeight: 81
   "vim-mode":
     useClipboardAsDefaultRegister: true
-  "vim-mode-plus":
-    notifiedCoffeeScriptNoLongerSupportedToExtendVMP: true
+  "vim-mode-plus": {}
   welcome:
     showOnStartup: false
   whitespace:
