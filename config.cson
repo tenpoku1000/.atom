@@ -1,6 +1,7 @@
 "*":
   core:
     telemetryConsent: "limited"
+    uriHandlerRegistration: "always"
     themes: [
       "atom-light-ui"
       "atom-light-syntax"
@@ -15,7 +16,7 @@
     tabLength: 4
     tabType: "hard"
   "exception-reporting":
-    userId: "162b3280-8298-44dd-b364-ac5f3adacbb6"
+    userId: "2989ed75-eddc-45fb-92bf-6782a1423097"
   "linter-ui-default":
     panelHeight: 81
   "vim-mode":
